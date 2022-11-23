@@ -1,4 +1,4 @@
-package main;
+package massivler;
 
 import java.util.Random;
 
@@ -15,7 +15,7 @@ public static void main(String[] args) {
 	int a3=r.nextInt(1, 10);
 	
 	System.out.println("Random int: "+a);
-	System.out.println("Şərtləndirdiyimiz int: "+a2);
+	System.out.println("�?ərtləndirdiyimiz int: "+a2);
 	System.out.println("Origin and bound int: "+a3);
 	System.out.println("_______________________________");
 	
@@ -23,7 +23,7 @@ public static void main(String[] args) {
 	double b1=r.nextDouble(1.5);
 	double b2=r.nextDouble(1.4, 1.6);
 	System.out.println("Random double b: "+b);
-	System.out.println("Şərtləndiryimiz (bound) double b1: "+b1);
+	System.out.println("�?ərtləndiryimiz (bound) double b1: "+b1);
 	System.out.println("origin and bound double b2: "+b2);
 }
 }

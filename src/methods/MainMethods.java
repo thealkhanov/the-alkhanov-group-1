@@ -14,7 +14,7 @@ public class MainMethods {
 	}
 	
 	public static void sayHello() {
-		System.out.println("Salamlayýram");
+		System.out.println("SalamlayÄ±ram");
 	}
 	
 }

@@ -6,7 +6,7 @@ public class MainObjectCreating {
 		Car audi = new Car();
 		audi.speed=380;
 		audi.color="Black";
-		audi.wheelCount=4;
+		audi.price=40000;
 		
 		Car tesla = new Car();
 		tesla.speed=450;
@@ -15,7 +15,7 @@ public class MainObjectCreating {
 		
 		System.out.println("Audi speed: "+audi.speed);
 		System.out.println("Audi color: "+audi.color);
-		System.out.println("Audi wheel count: "+audi.wheelCount);
+		System.out.println("Audi price: "+audi.price);
 		
 		
 		System.out.println();

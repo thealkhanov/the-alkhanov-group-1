@@ -1,4 +1,4 @@
-package main;
+package massivler;
 
 public class FinalKeyword {
 public static void main(String[] args) {

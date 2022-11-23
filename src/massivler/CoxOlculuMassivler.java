@@ -1,4 +1,4 @@
-package main;
+package massivler;
 
 public class CoxOlculuMassivler {
 public static void main(String[] args) {

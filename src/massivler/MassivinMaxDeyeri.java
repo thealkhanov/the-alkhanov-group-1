@@ -1,4 +1,4 @@
-package main;
+package massivler;
 
 public class MassivinMaxDeyeri {
 public static void main(String[] args) {
