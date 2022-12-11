@@ -7,13 +7,13 @@ public class ScannerExample {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Adınızı daxil edin:");
+		System.out.println("AdÄ±nÄ±zÄ± daxil edin:");
 		String name=sc.nextLine();
-		System.out.println("Salam, "+name);
+		System.out.println("Salam, "+name+" bÉ™y.");
 		
-		System.out.println("Yaşınızı daxil edin:");
+		System.out.println("YaÅŸÄ±nÄ±zÄ± daxil edin:");
 		int age=sc.nextInt();
-		System.out.println("Salam, yaşınız: "+age);
+		System.out.println("Salam, yaÅŸÄ±nÄ±z: "+age+"-dir");
 		
 		sc.close();
 	}
