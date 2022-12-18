@@ -2,6 +2,6 @@ package enum_examples;
 
 public enum Olculer {
 
-	KÝÇÝK, ORTA, BÖYÜK
+	KÄ°Ã‡Ä°K, ORTA, BÃ–YÃœK
 	
 }
