@@ -12,6 +12,8 @@ public class MainClassAggregation {
 		c.id=1;
 		c.model="Acer";
 		c.ram=r;
+		
+		System.out.println(c);
 	}
 
 }
